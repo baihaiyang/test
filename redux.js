@@ -18,4 +18,4 @@ const createStore = (reducer) => {
         subscribe
     }
 }
-export default { createStore: createStore }
+export default { createStore }
